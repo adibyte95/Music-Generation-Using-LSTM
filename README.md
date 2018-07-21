@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/adibyte95/Music-Generation-Using-LSTM.svg)](http://hits.dwyl.io/adibyte95/Music-Generation-Using-LSTM)
 # Music-Generation-Using-LSTM
 <h3>ABOUT THIS PROJECT :</h3>
 this repo aims to train a lstm network using a set of midi audio music files(piano) to generate a totally new audio file.Even though i am using piano files here any single instrument audio file will work<br/>
